@@ -59,12 +59,12 @@ Meet the founders behind Sparkpixel-MC, in order of appearance:
 
 | # | Member | Activity Stats |
 |---|--------|---------------|
-| 1 | **Cherter821** | <img src="https://github-readme-stats.vercel.app/api?username=Cherter821&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="450" /> |
-| 2 | **cdpyx** | <img src="https://github-readme-stats.vercel.app/api?username=cdpyx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="450" /> |
-| 3 | **goldfishMXY** | <img src="https://github-readme-stats.vercel.app/api?username=goldfishMXY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="450" /> |
-| 4 | **Bu7eneChen** | <img src="https://github-readme-stats.vercel.app/api?username=Bu7eneChen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="450" /> |
-| 5 | **yjcxgjmtd** | <img src="https://github-readme-stats.vercel.app/api?username=yjcxgjmtd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="450" /> |
-| 6 | **AppleTree0615** | <img src="https://github-readme-stats.vercel.app/api?username=AppleTree0615&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="450" /> |
+| 1 | **Cherter821** | <img src="https://github-readme-stats.vercel.app/api?username=Cherter821&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="500" /> |
+| 2 | **cdpyx** | <img src="https://github-readme-stats.vercel.app/api?username=cdpyx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="500" /> |
+| 3 | **goldfishMXY** | <img src="https://github-readme-stats.vercel.app/api?username=goldfishMXY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="500" /> |
+| 4 | **Bu7eneChen** | <img src="https://github-readme-stats.vercel.app/api?username=Bu7eneChen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="500" /> |
+| 5 | **yjcxgjmtd** | <img src="https://github-readme-stats.vercel.app/api?username=yjcxgjmtd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="500" /> |
+| 6 | **AppleTree0615** | <img src="https://github-readme-stats.vercel.app/api?username=AppleTree0615&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb703&text_color=fff&icon_color=ffb703&hide=contribs" width="500" /> |
 
 > 💡 *Each card shows the member's GitHub activity – total stars, commits, pull requests, issues, and more.*
 
