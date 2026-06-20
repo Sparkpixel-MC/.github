@@ -24,10 +24,10 @@
 > A development team originally formed by a group of Minecraft enthusiasts.  
 > We turn **pixelated ideas** into **real-world projects** — from game mods and server plugins to full‑stack web applications.
 
-- 🔭 We’re currently working on **next‑gen Minecraft tools**
-- 🌱 We’re learning **Rust** and **Kubernetes**
+- 🔭 We’re currently working on **Folia Minecraft plugins**
+- 🌱 We’re learning **Rust** and **Java**
 - 👯 We’re looking to collaborate on **open‑source game dev**
-- ⚡ Fun fact: Our first project was a Bukkit plugin that ran on a Raspberry Pi!
+- ⚡ Representitive Project: A small mod modified to improve the security of the resourcepacks
 
 ---
 
@@ -39,7 +39,7 @@
   </a>
 </p>
 <p align="center">
-  <i>— and more: Kotlin, Python, Go, AWS, Terraform —</i>
+  <i>— and more: Kotlin, Python, Go —</i>
 </p>
 
 ---
@@ -83,6 +83,9 @@ Meet the founders behind Sparkpixel-MC, in order of appearance:
 <p align="center">
   <a href="https://github.com/Sparkpixel-MC/No-OFO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sparkpixel-MC&repo=No-OFO&theme=radical&bg_color=0d1117&border_color=30363d" />
+  </a>
+  <a href="https://github.com/Sparkpixel-MC/Insurance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sparkpixel-MC&repo=Insurance&theme=radical&bg_color=0d1117&border_color=30363d" />
   </a>
 </p>
 
